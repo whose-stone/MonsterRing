@@ -1,4 +1,13 @@
-print ("\033[31mThis text is red.\033[0m")
-print ("\033[32mThis text is green.\033[0m")
-print ("\033[34mThis text is blue.\033[0m")
+from creature_list import *
+
+
+
+input("Welcome to MONSTER MASH! Where you will create and fight your own monster! Press Enter to continue...")
+
+print("You can choose from three kinds of monsters. Water, Earth, and Fire"\n )
+
+
+
+
+
 
