@@ -27,8 +27,9 @@ def create_monster():
     return monster
 
 user_monster = create_monster()
-print(f"\nMonster created!\nName: {my_monster.name}\nType: {my_monster.type}\nLife: {my_monster.life}")
-print(my_monster.body)
+print(f"\nMonster created!\nName: {user_monster.name}\nType: {user_monster.type}\nLife: {user_monster.life}")
+print(user_monster.body)
+
 
 
 
